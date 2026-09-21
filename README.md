@@ -15,24 +15,32 @@ O programa solicita o **tipo de imóvel** e o **consumo mensal de água em m³**
 
 ## 🛠️ Tecnologias utilizadas
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ## ▶️ Como executar
 
 1. Certifique-se de ter o **Python** instalado em seu computador.
 2. Baixe ou clone este repositório.
-3. Abra o arquivo app.py em um ambiente de desenvolvimento Python.
+3. Abra o arquivo `app.py` em um ambiente de desenvolvimento Python.
 4. Execute o programa.
 5. Ao iniciar o programa:
 
-   * 🏠 Informe o **tipo de imóvel**: comercial, casa ou apartamento.
+   * 🏠 Informe o **tipo de imóvel**: `comercial`, `casa` ou `apartamento`.
    * 💧 Informe o **consumo mensal de água em m³**.
 6. O programa analisará as informações fornecidas e exibirá a classificação correspondente ao perfil de consumo.
 
 ## 📁 Estrutura do projeto
+
 ```text
-consumo-agua
-  -app.py
+consumo-agua/
+├── app.py
+└── README.md
+```
+
+## 💡 Sobre o projeto
+
+Este projeto foi desenvolvido como atividade prática de programação em **Python**, utilizando entrada de dados, estruturas condicionais e regras de negócio para realizar a cla
+
   -README.md
 
 ## 💡 Sobre o projeto
