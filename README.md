@@ -15,7 +15,7 @@ O programa solicita o **tipo de imóvel** e o **consumo mensal de água em m³**
 
 ## 🛠️ Tecnologias utilizadas
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## ▶️ Como executar
 
@@ -39,7 +39,8 @@ consumo-agua/
 
 ## 💡 Sobre o projeto
 
-Este projeto foi desenvolvido como atividade prática de programação em **Python**, utilizando entrada de dados, estruturas condicionais e regras de negócio para realizar a cla
+Este projeto foi desenvolvido como atividade prática de programação em **Python**, utilizando entrada de dados, estruturas condicionais e regras de negócio para realizar a classificação do consumo de água.
+
 
   -README.md
 
