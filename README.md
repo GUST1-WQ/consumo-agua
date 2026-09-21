@@ -30,7 +30,7 @@ O programa solicita o **tipo de imóvel** e o **consumo mensal de água em m³**
 6. O programa analisará as informações fornecidas e exibirá a classificação correspondente ao perfil de consumo.
 
 ## 📁 Estrutura do projeto
-
+```text
 consumo-agua
   -app.py
   -README.md
