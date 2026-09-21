@@ -15,8 +15,7 @@ O programa solicita o **tipo de imóvel** e o **consumo mensal de água em m³**
 
 ## 🛠️ Tecnologias utilizadas
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## ▶️ Como executar
 
